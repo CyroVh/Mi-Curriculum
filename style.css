@@ -91,9 +91,10 @@ header h1{
     font-size: large;
     color: var(--ColorHeader);
     background-color: var(--ColorLetrasHeader);
+    box-shadow: 2px 2px 20px var(--ColorSombra);
 }
 .Certificados{
-    background-color: var(--ColorDiv) ;
+    background-color: var(--ColorDiv);
     box-shadow: 1px 1px 10px var(--ColorSombra);
     display: flex;
     flex-direction: column;
